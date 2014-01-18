@@ -1,3 +1,0 @@
-af login
-
-af update spacepro

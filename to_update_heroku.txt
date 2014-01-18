@@ -1,0 +1,3 @@
+run
+
+git push heroku master
